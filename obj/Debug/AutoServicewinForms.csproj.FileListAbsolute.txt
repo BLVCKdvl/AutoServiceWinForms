@@ -1,0 +1,11 @@
+D:\--UNIVERSITY--\SEMESTER-2\ТРПО\лаб 2\AutoServicewinForms\bin\Debug\AutoServicewinForms.exe.config
+D:\--UNIVERSITY--\SEMESTER-2\ТРПО\лаб 2\AutoServicewinForms\bin\Debug\AutoServicewinForms.exe
+D:\--UNIVERSITY--\SEMESTER-2\ТРПО\лаб 2\AutoServicewinForms\bin\Debug\AutoServicewinForms.pdb
+D:\--UNIVERSITY--\SEMESTER-2\ТРПО\лаб 2\AutoServicewinForms\obj\Debug\AutoServicewinForms.csproj.AssemblyReference.cache
+D:\--UNIVERSITY--\SEMESTER-2\ТРПО\лаб 2\AutoServicewinForms\obj\Debug\AutoServicewinForms.csproj.SuggestedBindingRedirects.cache
+D:\--UNIVERSITY--\SEMESTER-2\ТРПО\лаб 2\AutoServicewinForms\obj\Debug\AutoServicewinForms.Form1.resources
+D:\--UNIVERSITY--\SEMESTER-2\ТРПО\лаб 2\AutoServicewinForms\obj\Debug\AutoServicewinForms.Properties.Resources.resources
+D:\--UNIVERSITY--\SEMESTER-2\ТРПО\лаб 2\AutoServicewinForms\obj\Debug\AutoServicewinForms.csproj.GenerateResource.cache
+D:\--UNIVERSITY--\SEMESTER-2\ТРПО\лаб 2\AutoServicewinForms\obj\Debug\AutoServicewinForms.csproj.CoreCompileInputs.cache
+D:\--UNIVERSITY--\SEMESTER-2\ТРПО\лаб 2\AutoServicewinForms\obj\Debug\AutoServicewinForms.exe
+D:\--UNIVERSITY--\SEMESTER-2\ТРПО\лаб 2\AutoServicewinForms\obj\Debug\AutoServicewinForms.pdb

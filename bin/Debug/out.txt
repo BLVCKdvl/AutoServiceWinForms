@@ -1,0 +1,9 @@
+name : Дмитрий Маканов
+auto mark : Chevrole Corvette ZR1
+date of acception : 11.04.2022
+work types 
+	* Чистка машины -- 1,0
+	* установка турбонаддува -- 2,0
+	* Замена масла -- 3,0
+
+General cost:6,0
